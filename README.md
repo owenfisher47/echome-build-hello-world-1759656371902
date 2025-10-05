@@ -1,2 +1,7 @@
-# echome-build-hello-world-1759656371902
-EchoMe generated project: build-hello-world
+# Hello World Next.js App
+
+A simple Hello World application built with Next.js, TypeScript, and CSS modules.
+
+## Getting Started
+
+1. Install dependencies:
